@@ -29,11 +29,16 @@ header{
     font-size: 24px;
     font-weight: 600;
     letter-spacing: -0.04em;
+    text-decoration: none;
 }
 .pop{font-family: "Mochiy Pop P One", sans-serif;}
 
 .logo span{
     color: #ACE2E1;
+    text-decoration: none;
+}
+.header_menu{
+    text-decoration: none;
 }
 .header_menu li{
     margin-left: 40px;
