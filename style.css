@@ -48,7 +48,7 @@ header{
 
 /* main */
 #hero{
-    background-image: url(../images/sample.jpg);
+    background-image: url(https://github.com/uillu2416/balaikubo/blob/main/maingate2.jpg);
     background-position: center;
     background-size: cover;
     height: 430px;
@@ -104,7 +104,7 @@ header{
     
 }
 .photo{
-    background-image: url(../images/pool9.jpg);
+    background-image: url(https://github.com/uillu2416/balaikubo/blob/main/pool9.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -142,7 +142,7 @@ iframe{
     position: center;
 }
 .photo2{
-    background-image: url(../images/pool4.jpg);
+    background-image: url(https://github.com/uillu2416/balaikubo/blob/main/pool3.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -161,7 +161,7 @@ iframe{
     margin: 3%;
 }
 .photo3{
-    background-image: url(../images/pool8.jpg);
+    background-image: url(https://github.com/uillu2416/balaikubo/blob/main/pool8.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -170,7 +170,7 @@ iframe{
     display: flex;
 }
 .photo4{
-    background-image: url(../images/cottage3.jpg);
+    background-image: url(https://github.com/uillu2416/balaikubo/blob/main/cottage3.jpg);
     background-position: center;
     background-size: cover;
     height: 300px;
