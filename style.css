@@ -30,6 +30,8 @@ header{
     font-weight: 600;
     letter-spacing: -0.04em;
     text-decoration: none;
+}
+.logo a{
     color:#000000;
 }
 .pop{font-family: "Mochiy Pop P One", sans-serif;}
