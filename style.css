@@ -194,3 +194,12 @@ iframe{
 .footer_menu li a{
     transition: .3s;
 }
+.ul{
+    padding-left: 0;
+}
+li{
+    list-style: none;
+}
+.container{
+    text-decoration: none;
+}
