@@ -35,13 +35,10 @@ header{
 
 .logo span{
     color: #ACE2E1;
-    text-decoration: none;
-}
-.header_menu{
-    text-decoration: none;
 }
 .header_menu li{
     margin-left: 40px;
+
 }
 .header_menu li a:hover{
     color:#ACE2E1;
@@ -49,6 +46,8 @@ header{
 }
 .header_menu li a{
     transition: .3s;
+    text-decoration: non;
+    color:#000000;
 }
 
 /* main */
